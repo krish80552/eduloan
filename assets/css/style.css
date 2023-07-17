@@ -225,6 +225,11 @@ p {
   font-weight: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 /* line 34, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .bg-img-1 {
   background-image: url(../img/slider/slider-img-1.jpg);
